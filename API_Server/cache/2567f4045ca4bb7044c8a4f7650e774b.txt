@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+  <node>
+    <id>1</id>
+    <type>Terrestrial Planet</type>
+  </node>
+  <node>
+    <id>2</id>
+    <type>Gas Giant</type>
+  </node>
+</types>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gases>
+  <node>
+    <id>1</id>
+    <formula>CO2</formula>
+  </node>
+  <node>
+    <id>2</id>
+    <formula>N2</formula>
+  </node>
+  <node>
+    <id>3</id>
+    <formula>O2</formula>
+  </node>
+  <node>
+    <id>4</id>
+    <formula>Ar</formula>
+  </node>
+  <node>
+    <id>5</id>
+    <formula>H2</formula>
+  </node>
+  <node>
+    <id>6</id>
+    <formula>He</formula>
+  </node>
+</gases>
